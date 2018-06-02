@@ -39,6 +39,10 @@ public class MainActivity extends AppCompatActivity
         toggle.syncState();
 
         ////hghjgjhgtyrytr
+
+
+
+        ///sdsdfs
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
     }
